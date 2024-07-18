@@ -1,4 +1,4 @@
-# Employee Burnout Prediction
+# Employee Burnout Prediction for IBM
 
 ## Project Overview
 This project aims to predict employee burnout using the 'IBM HR Analytics Employee Attrition & Performance' dataset available on Kaggle. Through the analysis of various HR-related metrics, the project seeks to understand the key factors contributing to employee turnover and provide insights into potential retention strategies.
