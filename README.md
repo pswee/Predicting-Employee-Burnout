@@ -16,7 +16,7 @@ This project aims to predict employee burnout using the 'IBM HR Analytics Employ
 
 ## Repository Structure
 - **employee-burnout-prediction.ipynb:** Jupyter notebook containing the full analysis.
-- **data/:** Directory containing the original dataset used in the analysis.
+- **data.csv:** File containing the original dataset used in the analysis.
 
 ## How to Run
 - Ensure you have Jupyter installed and the required Python libraries (pandas, NumPy, scikit-learn, matplotlib, seaborn).
